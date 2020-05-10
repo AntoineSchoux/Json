@@ -1,20 +1,4 @@
 [
 {"id":84,"lng":6.236949,"lat":46.198902,"origin":1, "confiance":20.497455},
-{"id":86,"lng":6.236948,"lat":46.198904,"origin":1, "confiance":20.851087},
-{"id":91,"lng":6.236948,"lat":46.198904,"origin":1, "confiance":21.047791},
-{"id":95,"lng":6.236948,"lat":46.198905,"origin":1, "confiance":20.364726},
-{"id":105,"lng":6.236940,"lat":46.198923,"origin":1, "confiance":21.577413},
-{"id":110,"lng":6.236938,"lat":46.198940,"origin":1, "confiance":21.510093},
-{"id":115,"lng":6.236942,"lat":46.198956,"origin":1, "confiance":22.138851},
-{"id":125,"lng":6.236952,"lat":46.198974,"origin":1, "confiance":23.585622},
-{"id":133,"lng":6.236955,"lat":46.198979,"origin":1, "confiance":21.910450},
-{"id":136,"lng":6.236935,"lat":46.198953,"origin":1, "confiance":20.472367},
-{"id":142,"lng":6.236921,"lat":46.198938,"origin":1, "confiance":20.635713},
-{"id":152,"lng":6.236897,"lat":46.198923,"origin":1, "confiance":20.584182},
-{"id":156,"lng":6.236856,"lat":46.198907,"origin":1, "confiance":21.458824},
-{"id":164,"lng":6.236784,"lat":46.198889,"origin":1, "confiance":22.638256},
-{"id":167,"lng":6.236618,"lat":46.198850,"origin":1, "confiance":21.392867},
-{"id":175,"lng":6.236580,"lat":46.198832,"origin":1, "confiance":22.626461},
-{"id":178,"lng":6.236567,"lat":46.198822,"origin":1, "confiance":23.315606},
-{"id":179,"lng":6.236558,"lat":46.198811,"origin":1, "confiance":23.458698}
+{"id":86,"lng":6.236948,"lat":46.198904,"origin":1, "confiance":20.851087}
 ]
