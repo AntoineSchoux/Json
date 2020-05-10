@@ -1,4 +1,14 @@
-[
-{"id":84,"lng":6.236949,"lat":46.198902,"origin":1, "confiance":20.497455},
-{"id":86,"lng":6.236948,"lat":46.198904,"origin":1, "confiance":20.851087}
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
